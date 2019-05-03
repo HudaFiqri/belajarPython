@@ -1,4 +1,4 @@
-#elif
+#elif basic
 
 a = 10
 
