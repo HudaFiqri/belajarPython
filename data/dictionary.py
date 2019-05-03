@@ -1,5 +1,4 @@
 #dictionary isi data
-
 data = {
     'nama' : 'M Huda Fiqri',
     'kelas' : 'x tkj a',
@@ -10,7 +9,6 @@ data = {
     }
 
 #pemanggilan basic
-
 print('#pemanggilan basic')
 
 print('nama saya = %s' % data['nama'])
@@ -23,7 +21,6 @@ print('skill = %s' % data['skill'])
 print('')
 
 #pemanggilan dengan metode get()
-
 data2 = {
     'nama' : 'M Huda Fiqri',
     'kelas' : 'x tkj a',
