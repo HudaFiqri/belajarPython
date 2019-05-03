@@ -1,2 +1,3 @@
 # belajarPython
-repository untuk file learning python
+
+repository untuk belajar bahasa pemprograman python
