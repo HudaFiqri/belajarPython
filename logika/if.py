@@ -1,5 +1,4 @@
 #if basic
-
 print('#if basic')
 
 a1 = 10
@@ -12,7 +11,6 @@ if(a1 > 1):
 print('')
 
 #if bersarang
-
 print('#if bersarang')
 
 a = 10
