@@ -10,7 +10,7 @@ ipadd = input("masukkan ip address = ")
 net = os.system('ping ' + ipadd)
 
 if net == 0:
-    print('berhasil menghubungkan server master')
+    print('berhasil menghubungkan server')
 
 else:
-    print('gagal menghubungkan server master')
+    print('gagal menghubungkan server')
