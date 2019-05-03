@@ -38,3 +38,11 @@ int main()
 jika di python cukup dengan bigini:
 
 print("hello world")
+
+
+
+konstanta dalam python
+
+konstanta dalam python dapat di tulis seperti ini
+
+a = "hello world"
