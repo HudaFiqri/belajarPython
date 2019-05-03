@@ -1,6 +1,6 @@
 # belajarPython
 
-repository untuk belajar bahasa pemprograman python
+repository programing tutorial python
 
 python adalah bahasa program yang simple dan mudah python
 bisa digunakan untuk kebutuhan server, web, tools,
