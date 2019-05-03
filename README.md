@@ -1,7 +1,6 @@
-<div align="center">
+<div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"><br><br>
 </div>
------------------
 
 # belajarPython
 
