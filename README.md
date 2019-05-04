@@ -1,4 +1,4 @@
-<div align="center" witdh="112px" height="112px">
+<div align="center">
   <img src="https://kuh4kuu.000webhostapp.com/gambar/github/logo.png"><br><br>
 </div>
 
