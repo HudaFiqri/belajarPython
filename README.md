@@ -1,10 +1,10 @@
-<div align="left" witdh="112px" height="112px">
+<div align="center" witdh="112px" height="112px">
   <img src="https://kuh4kuu.000webhostapp.com/gambar/github/logo.png"><br><br>
 </div>
 
 # belajarPython
 
-repository programing tutorial python
+repository tutorial programing python
 
 python adalah bahasa program yang simple dan mudah python
 bisa digunakan untuk kebutuhan server, web, tools,
