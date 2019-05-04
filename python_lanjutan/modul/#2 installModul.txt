@@ -1,0 +1,44 @@
+ada beberapa modul di python yang tidak lengkap
+seperti modul import PyMySQL yang harus di install
+modul wikipedia yang harus di install jika anda
+ingin mengimport modul tersebut.
+
+jika di linux:
+- anda tinggal ketik seperti ini:
+    pip install nama_modul
+  anda tinggal ketik seperti diatas tapi ada yang harus
+  anda perhatikan dalam instalasi modul: 
+  
+  1. jika anda memiliki ada 2 python dalam 1 os maka bisa jadi 
+     modul yang anda install ada di tempat yang tidak semestinya
+     misal anda telah menginstall python 3 dan anda install juga
+     python 2 bisa jadi modulnya ada di python 2 atau 3.
+
+ jika di windows:
+- jika anda install di windows commandnya sama tinggal ketik
+  di command prompt seperti ini:
+    pip install nama_modul
+  yang harus anda perhatikan dalam windows adalah:
+  
+  1. anda harus path dulu script di python ke control panel.
+
+  2. cara ngepath nya masuk ke control panel > system security >
+                                            system > advanced system settings.
+  
+  3. akan keluar jendela system properties.
+
+  4. klik environment variables...
+
+  5. di kotak systm variables cari path
+
+  6. klik 2x pada path
+
+  7. cari folder python cari folder script copykan alamatnya
+
+  8. nah kembali ke path tadi terus klik new
+
+  9. pastekan terus klik ok
+
+  10. buka command prompt ketik pip install nama_modul
+
+  jika cara diatas berhasil maka anda sudah bisa menginstall modul lewat command prompt
