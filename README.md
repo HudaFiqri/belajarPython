@@ -2,7 +2,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"><br><br>
 </div>
 
+<div padding-left="140px" margin-top="-73px" display="inline-block">
 # belajarPython
+</div>
 
 repository programing tutorial python
 
