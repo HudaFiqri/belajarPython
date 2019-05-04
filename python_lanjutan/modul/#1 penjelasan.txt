@@ -1,0 +1,23 @@
+modul di python ada banyak modul di python
+bisa digunakan untuk apa saja contoh:
+
+# modul datetime:
+    - dmodul yang menghubungkan dengan waktu
+      misal: jika anda ingin mendapatkan waktu dari
+      python bisa dengan import datetime.
+
+# modul os:
+    - modul yang digunakan sebagai perantara
+      python dengan command di komputer
+      contoh: jika kamu ingin menghapus tampilan
+      dari command prompt yang ada di windows
+      cukup tinggal ketikkan:
+
+      import os
+
+      os.system('cls')
+
+masih banyak lagi modul di python yang bisa anda coba
+untuk berbagai kebutuhan misal anda ingin menghubungkan
+python dengan mysql ada modul yang harus di import yaitu
+import PyMySQL yang bisa kamu install
