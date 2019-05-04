@@ -1,13 +1,4 @@
-<script>
-  #pic {
-    background-image: url('https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg');
-    width: 112px;
-    height: 112px;
-    background-repeat: no-repeat;
-  }
-</script>
-
-<div id="pic">
+<div align="left" witdh="112px" height="112px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"><br><br>
 </div>
 
