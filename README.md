@@ -1,5 +1,5 @@
 <div align="left" witdh="112px" height="112px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"><br><br>
+  <img src="file:///D:/foto/logo/github/logo.png"><br><br>
 </div>
 
 # belajarPython
