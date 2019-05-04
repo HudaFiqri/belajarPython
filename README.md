@@ -1,5 +1,5 @@
 <div align="left" witdh="112px" height="112px">
-  <img src="file:///D:/foto/logo/github/logo.png"><br><br>
+  <img src="https://kuh4kuu.000webhostapp.com/gambar/github/logo.png"><br><br>
 </div>
 
 # belajarPython
