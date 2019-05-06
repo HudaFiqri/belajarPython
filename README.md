@@ -22,3 +22,5 @@ python bisa dipakai dalam pembuatan artificial intellegent dengan modul aiml
 
 python menyediakan beragai macam modul dan library yang cocok digunakan untuk berbagai
 macam kebutuhan
+
+email : mhudafiqri06@gmail.com
