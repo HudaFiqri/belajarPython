@@ -1,3 +1,9 @@
+'''
+dengan menggunakan metode ini kita bisa menentukan jenis variable yang akan digunakan
+
+ditulis pada: 06-03-2021
+sumber referensi: pintaar module
+'''
 class Variable:
 
     def __init__(self):
